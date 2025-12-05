@@ -1,2 +1,1 @@
-Print("Astra.win working!!! thank you")
-Print("Astra.win in recode")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
